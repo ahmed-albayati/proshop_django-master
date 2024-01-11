@@ -1,5 +1,9 @@
 # proshop_django-master
 pro market project , full market website , created using (React , react bootstrap , Django , Postgres)
+![home Page](1.PNG)
+![admin](2.PNG)
+![all products](3.PNG)
+
 
 # Features
 Full featured shopping cart
@@ -25,4 +29,4 @@ PayPal / credit card integration
 1 - cd frontend
 2 - npm install
 
-course project which focuse on connecting React & Django 
+course project which focuse on connecting React & Django , full-stack eCommerce application built using React for the frontend and Django for the backend. It aims to provide a complete shopping experience for users, allowing them to browse products, make purchases, and manage their orders. The project incorporates user authentication, admin functionalities, and secure payment processing through the PayPal API.
