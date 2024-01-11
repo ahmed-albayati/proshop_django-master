@@ -1,8 +1,6 @@
 # proshop_django-master
 pro market project , full market website , created using (React , react bootstrap , Django , Postgres)
 ![home Page](static/images/proshop_django_demo.png)
-![admin](2.PNG)
-![all products](3.PNG)
 
 
 # Features
